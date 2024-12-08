@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": " pain coffee",
+    "price": 10.5,
+    "image": "47SMA0013_3E8_01.jpg"
+  },
+  {
+    "id": 2,
+    "name": " black coffee",
+    "price": 13.4,
+    "image": "47SMA0121_02H_01.jpg"
+  },
+  {
+    "id": 3,
+    "name": " 3KG of black coffee",
+    "price": 36.6,
+    "image": "download.jpg"
+  },
+  {
+    "id": 4,
+    "name": " 2KG of black coffee",
+    "price": 24.6,
+    "image": "PH4012_IY1_20.jpg"
+  },
+  {
+    "id": 5,
+    "name": " 2KG of black coffee",
+    "price": 24.6,
+    "image": "47SFA0045_2K7_01.jpg"
+  }
+]
